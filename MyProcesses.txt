@@ -1,0 +1,3 @@
+Parent process is bash (my shell)
+Parent of bash is login
+Parent of login is systemd

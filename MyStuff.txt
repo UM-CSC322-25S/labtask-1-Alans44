@@ -1,0 +1,8 @@
+UserID: 1000
+Primary group ID: 1000 
+The names of all groups you belong to: alans adm dialout cdrom floppy sudo audio dip video plugdev users netdev
+Absolute path of shell: /usr/bin/bash
+Absolute path of home: /home/alans
+PATH environment variable: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/WindowsApps/MicrosoftCorporationII.WindowsSubsystemForLinux_2.3.26.0_x64__8wekyb3d8bbwe:/mnt/c/Python311/Scripts/:/mnt/c/Python311/:/mnt/c/Program Files/Eclipse Adoptium/jdk-18.0.2.101-hotspot/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files (x86)/PharosSystems/Core:/mnt/c/Program Files/CMake/bin:/mnt/c/Users/fuent/Downloads/protoc-3.20.3-win64/bin:/mnt/c/Users/fuent/AppData/Local/Programs/Python/Python310/Scripts/:/mnt/c/Users/fuent/AppData/Local/Programs/Python/Python310/:/mnt/c/Users/fuent/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/JetBrains/PyCharm Community Edition 2022.2.1/bin:/mnt/c/Users/fuent/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/fuent/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/fuent/AppData/Roaming/npm:/snap/bin
+
+
